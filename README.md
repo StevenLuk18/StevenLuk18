@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @StevenLuk18
-- 👀 I’m interested in coding and data
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me: GitHub is ok
+<h1 align="center">Hi 👋, I'm Steven Luk</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=StevenLuk18&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="StevenLuk18" /> </p>
+
+- 👀 I’m interested in coding/data/UI/UX 
+- 🌱 I’m currently learning Python (Basically everything)
+- 📫 How to reach me: *mrchun96@gmail.com* or GitHub 
 - 😄 Pronouns: Positive
+- 😝 I am work-ready
 - ⚡ Fun fact: Not very much technical background but I am studying proactively
 
 <!---
